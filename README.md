@@ -24,3 +24,19 @@ For business enquiries, collaborations, partnerships, or further information abo
 **Email:** zammankhan134@gmail.com
 
 **Website:** https://genioresume.company
+
+## Website Preview
+
+![GenioResume Screenshot 1](Screenshot%202026-10-29%20060814.png)
+
+![GenioResume Screenshot 2](Screenshot%202026-10-29%20060825.png)
+
+![GenioResume Screenshot 3](Screenshot%202026-10-29%20060834.png)
+
+![GenioResume Screenshot 4](Screenshot%202026-10-29%20060901.png)
+
+![GenioResume Screenshot 5](Screenshot%202026-10-29%20060914.png)
+
+![GenioResume Screenshot 6](Screenshot%202026-10-29%20060932.png)
+
+![GenioResume Screenshot 7](Screenshot%202026-10-29%20060941.png)
